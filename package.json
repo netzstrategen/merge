@@ -1,0 +1,19 @@
+{
+  "name": "@netzstrategen/merge",
+  "version": "1.0.0",
+  "description": "Merge two objects based on a particular key.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netzstrategen/merge"
+  },
+  "author": "Fabian Marz <fabian@netzstrategen.com> (https://netzstrategen.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netzstrategen/merge/issues"
+  },
+  "homepage": "https://github.com/netzstrategen/merge",
+  "dependencies": {
+    "cloner": "^0.4.0"
+  }
+}
